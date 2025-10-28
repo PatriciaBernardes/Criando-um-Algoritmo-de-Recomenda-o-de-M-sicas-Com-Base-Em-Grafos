@@ -185,3 +185,7 @@ Integração de Dados: Conexão com bases de dados maiores via LOAD CSV ou ferra
 Análise Avançada: Aplicação de Algoritmos GDS (Graph Data Science) como PageRank ou Similaridade de Jaccard para obter afinidades de usuário ainda mais precisas.
 
 Este projeto demonstra como a modelagem em grafos simplifica e otimiza a lógica de recomendação complexa!
+
+
+### Visualização do Modelo
+<img width="936" height="676" alt="Algoritmo Recomendações" src="https://github.com/user-attachments/assets/213d0193-4b89-455f-a162-fbbd3db884fa" />
